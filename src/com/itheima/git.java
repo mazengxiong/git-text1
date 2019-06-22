@@ -10,4 +10,9 @@ public class git {
         System.out.println("12");
         System.out.println("12");
     }
+
+    public void o(){
+
+        System.out.println("33");
+    }
 }
